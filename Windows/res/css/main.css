@@ -1030,7 +1030,7 @@ body {
     width: 1.5em;
     padding-right: 0.5em;
     transition: all 0.2s;
-    color: rgba(255, 255, 255, 0.6);
+    /* color: rgba(255, 255, 255, 0.6); */
 }
 
 #yl .startMenu .menu .item .arrow.open {
